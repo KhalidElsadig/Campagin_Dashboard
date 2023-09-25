@@ -43,3 +43,4 @@ A multi-view dashboard was created in Excel, consisting of distinct segments: De
 
 ## Conclusion
 This project provided a holistic approach to campaign design, data collection, analysis, and visualization, ultimately offering valuable insights and recommendations for TechGlow. The application of this methodology demonstrated the potential for improved marketing strategies, enhanced product appeal, and increased customer engagement.
+![Dashboard Image](https://raw.githubusercontent.com/KhalidElsadig/Campagin_Dashboard/main/dashboard.png)
